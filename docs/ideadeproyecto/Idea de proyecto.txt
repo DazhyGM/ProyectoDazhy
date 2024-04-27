@@ -1,0 +1,12 @@
+MODULO DE GESTION DE DOCUMENTOS 
+ACHC (Administracion y Control de Historias Clinicas)
+
+Tener un control de las historias clinicas y documentacion de los usuarios, con el fin de que las personas no tengan necesidad de cargar papeleria o documentacion en carpetas y ahorrar el gasto de papel.
+
+- Crear Modos de Sesiones, una como administrador , otra como trabajador (doctor, especialista) y una como usuario
+
+*Usuario ADMINISTRADOR: Acceso total al software
+
+*Usuario TRABAJADOR/ESPECIALISTA: ( edicion de cierta documentacion  dependiendo el area o especialidad, subir y extraer documentacion e informacion , visualizacion documentacion interna
+
+*Usuario CLIENTE: Acceso total a toda la informacion en el software solo como VISUALIZACION y con lo que este relacionado a su numero de identificacion.
